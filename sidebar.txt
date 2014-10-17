@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nyj:home|Door43 (nyj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nyj|d43-nyj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nyj/archive/master.zip|d43-nyj.zip]]
+
+**Recent Changes**
+{{changes>ns = nyj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nyj|Ethnologue data]]
+
